@@ -1,0 +1,161 @@
+.containerr{
+    /* position: relative; */
+    /* width: 1600px; */
+    /* width: 100%; */
+    /* background-color: black; */
+    width: 100%;
+}
+
+.header{
+    position:absolute;
+    top: 81px;
+    left: 0; 
+    background-image: url("./pageImage/logoo.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 360px;
+    z-index: 2;
+    /* background-color: aqua; */
+    justify-content: space-between;
+}
+
+.image{
+    /* max-width: 500px; */
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+
+.texts{
+    /* max-width: 570px; */
+    /* margin: 0 auto; */
+    justify-content: end;
+    /* width: 600px; */
+    padding: 100px;
+    
+    /* justify-content: right; */
+}
+
+.header-text1{
+    color: black;
+    text-align: right;
+    font-size: 35px;
+}
+
+.header-text2{
+    color: rgb(74, 74, 74);
+    text-align: end;
+    justify-content: end;
+    font-size: 20px;
+    /* margin-right: 0; */
+    /* max-width: 570px; */
+}
+
+.linkss{
+    position: absolute;
+    top: 480px;
+    left: 0;
+    right: 0;
+    /* background-color: aqua; */
+    /* margin: 0 auto; */
+    justify-content: center;
+    top: 800;
+    display: flex;
+    column-gap: 80px;
+    margin-top: 8px;
+    /* text-align: center; */
+}
+
+.linkkk{
+    color: rgb(149, 149, 149);
+}
+
+.shopFetch{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.shop-fetch{
+    /* padding-top: 100px; */
+    width: 100%;
+    /* margin-bottom: 100px; */
+    justify-content: center;
+}
+
+.card{
+    border: rgb(227, 227, 227) solid 1px;
+}
+
+.fetchText{
+    color: black;
+}
+
+.bronzer-footer{
+    position: absolute;
+    top: 11100px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.blush-footer{
+    position: absolute;
+    top: 15200px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.eyebrow-footer{
+    position: absolute;
+    top: 8100px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.found-footer{
+    position: absolute;
+    top: 30500px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.liner-footer{
+    position: absolute;
+    top: 6700px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.stick-footer{
+    position: absolute;
+    top: 28100px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.mas-footer{
+    position: absolute;
+    top: 17100px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.nail-footer{
+    position: absolute;
+    top: 11600px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+}

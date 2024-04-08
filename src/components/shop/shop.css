@@ -1,0 +1,105 @@
+.containerr{
+    /* position: relative; */
+    /* width: 1600px; */
+    /* width: 100%; */
+    /* background-color: black; */
+    width: 100%;
+}
+
+.headerr{
+    position:absolute;
+    top: 81px;
+    left: 0; 
+    background-image: url("../../pages/pageImage/logoo.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 360px;
+    /* z-index: 2; */
+    /* background-color: aqua; */
+    justify-content: space-between;
+}
+
+.image{
+    /* max-width: 500px; */
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+
+.texts{
+    /* max-width: 570px; */
+    /* margin: 0 auto; */
+    justify-content: end;
+    /* width: 600px; */
+    padding: 100px;
+    
+    /* justify-content: right; */
+}
+
+.header-text1{
+    color: black;
+    text-align: right;
+    font-size: 35px;
+}
+
+.header-text2{
+    color: rgb(74, 74, 74);
+    text-align: end;
+    justify-content: end;
+    font-size: 20px;
+    /* margin-right: 0; */
+    /* max-width: 570px; */
+}
+
+.linkss{
+    /* position: absolute; */
+    /* top: 490px;
+    left: 0; */
+    right: 0;
+    /* background-color: aqua; */
+    justify-content: center;
+    /* top: 800; */
+    display: flex;
+    column-gap: 80px;
+    margin-top: 8px;
+    /* text-align: center; */
+}
+
+.linkkk{
+    margin-top: 10px;
+    color: rgb(149, 149, 149);
+}
+
+.shopFetchh{
+    position: absolute;
+    top: 260px;
+    left: 0;
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.shop-fetchh{
+    /* background-image: url("./shop-image/logoo.webp"); */
+    /* padding-top: 100px; */
+    width: 100%;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+
+.card{
+    border: rgb(227, 227, 227) solid 1px;
+}
+
+.fetchText{
+    color: black;
+}
+
+.footerShop{
+    position: absolute;
+    top:1100px;
+    width: 100%;
+    left: 0;
+}

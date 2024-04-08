@@ -1,0 +1,38 @@
+/* .shopFetch{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.shop-fetch{
+    padding-top: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.card{
+    border: rgb(227, 227, 227) solid 1px;
+}
+
+.carder{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns:  repeat(4, 1fr);
+}
+
+.fetchText{
+    color: black;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+.button{
+    margin-top: 100px;
+    width: 600px;
+} */
